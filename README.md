@@ -1,6 +1,12 @@
 # 8-bit-SAP-Breadboard-Computer-by-Space-Man
 
-This is my build of Ben Eater's 8-bit breadboard computer
+This is my build of Ben Eater's 8-bit breadboard computer.
+Posted videos of my Build.
+https://www.youtube.com/channel/UCy30KFB296CIdccvAtxhpkA
+
+Ben Eater's 8 Bit computer videos.
+Building an 8-bit breadboard computer!
+https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU
 
 Ben Eater SAP 8-bit computer diagram 4-9-2017.vsd This is a MS Office Visio file (.vsd). You can get a Visio viewer if you don't have Visio. I included an XPS file format as well. Using the Visio file you will find it helpful when building it as you can highlight a connection line and it will show you the two connection points.
 
